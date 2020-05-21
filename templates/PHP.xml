@@ -12,4 +12,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="verifypost" value="if(isset($_POST['delete_bookmark']) &amp;&amp; !empty($_POST['delete_bookmark'])) {&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
