@@ -7,7 +7,7 @@
   <template name="eco" value="echo &quot;$END$ : $END$&lt;br&gt;&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="error" value="error_reporting(-1);&#10;ini_set('display_errors', 'On');" toReformat="false" toShortenFQNames="true">
+  <template name="error" value="error_reporting(-1);&#10;ini_set('display_errors', 'On');" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
