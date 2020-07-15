@@ -6,6 +6,7 @@
       <mapping ext="2020-05-07" type="PLAIN_TEXT" />
       <mapping ext="20200531" type="PLAIN_TEXT" />
       <mapping ext="20200529" type="PLAIN_TEXT" />
+      <mapping ext="point_trx" type="PLAIN_TEXT" />
       <mapping ext="20200420" type="PLAIN_TEXT" />
       <mapping ext="20200501" type="PLAIN_TEXT" />
       <mapping ext="20201420" type="PLAIN_TEXT" />
