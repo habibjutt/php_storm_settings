@@ -3,6 +3,18 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="warn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="trace" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="us" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
