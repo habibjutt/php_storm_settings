@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="ajax" value="$.ajax({&#10;                type: &quot;GET&quot;,&#10;                data: {&#10;                    &quot;driverID&quot;: driverID,&#10;                    &quot;current_order_timing&quot;: current_order_timing,&#10;                    &quot;delivery_date&quot;: delivery_date&#10;                },&#10;                url: &quot;ajax_get_driver_active_colors.php&quot;,&#10;                success: function (data) {&#10;                    arr = $.parseJSON(data);&#10;&#10;                    console.log(arr);&#10;&#10;                    $.each(arr, function (key, value) {&#10;                        console.log(value);&#10;&#10;                        if (value) {&#10;                            var selector = &quot;#boxcolor option[value=&quot; + value + &quot;]&quot;;&#10;                            // console.log(selector);&#10;                            // console.log($(selector).val());&#10;                            $(selector).append('-[USED]');&#10;                            $(selector).prop(&quot;disabled&quot;, true);&#10;                        }&#10;                    });&#10;                }&#10;            });" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
