@@ -1,22 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="20200606" type="PLAIN_TEXT" />
-      <mapping ext="20200820" type="PLAIN_TEXT" />
-      <mapping ext="2020-05-07" type="PLAIN_TEXT" />
-      <mapping ext="20200531" type="PLAIN_TEXT" />
       <mapping ext="20200529" type="PLAIN_TEXT" />
-      <mapping ext="point_trx" type="PLAIN_TEXT" />
-      <mapping ext="20200420" type="PLAIN_TEXT" />
+      <mapping ext="20200412" type="PLAIN_TEXT" />
       <mapping ext="20200501" type="PLAIN_TEXT" />
-      <mapping ext="20200715" type="PLAIN_TEXT" />
-      <mapping ext="20201420" type="PLAIN_TEXT" />
+      <mapping ext="20201130" type="PLAIN_TEXT" />
       <mapping ext="20200429" type="PLAIN_TEXT" />
+      <mapping ext="20200420" type="PLAIN_TEXT" />
       <mapping ext="20200414" type="PLAIN_TEXT" />
       <mapping ext="20200413" type="PLAIN_TEXT" />
-      <mapping ext="20200412" type="PLAIN_TEXT" />
       <mapping ext="20200407" type="PLAIN_TEXT" />
+      <mapping ext="20201420" type="PLAIN_TEXT" />
+      <mapping ext="20200820" type="PLAIN_TEXT" />
+      <mapping ext="2020-05-07" type="PLAIN_TEXT" />
+      <mapping ext="20200715" type="PLAIN_TEXT" />
+      <mapping ext="point_trx" type="PLAIN_TEXT" />
       <mapping ext="working" type="PLAIN_TEXT" />
+      <mapping ext="20200606" type="PLAIN_TEXT" />
+      <mapping ext="20200531" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
