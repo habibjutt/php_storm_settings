@@ -12,4 +12,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="echopos" value="if ($_SESSION['username'] == &quot;habib_pos&quot;) {&#10;        echo &quot;&lt;pre&gt;&quot;;&#10;        print_r();&#10;        echo &quot;&lt;/pre&gt;&quot;;&#10;        die();&#10;    }" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
