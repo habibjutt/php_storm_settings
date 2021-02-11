@@ -18,6 +18,7 @@
       <mapping ext="point_trx" type="PLAIN_TEXT" />
       <mapping ext="working" type="PLAIN_TEXT" />
       <mapping ext="20200606" type="PLAIN_TEXT" />
+      <mapping ext="20210211" type="PLAIN_TEXT" />
       <mapping ext="20200531" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
