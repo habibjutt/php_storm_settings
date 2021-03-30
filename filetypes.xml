@@ -17,6 +17,7 @@
       <mapping ext="20200715" type="PLAIN_TEXT" />
       <mapping ext="point_trx" type="PLAIN_TEXT" />
       <mapping ext="working" type="PLAIN_TEXT" />
+      <mapping ext="20210330kamransirchanges" type="PLAIN_TEXT" />
       <mapping ext="20200606" type="PLAIN_TEXT" />
       <mapping ext="20210222" type="PLAIN_TEXT" />
       <mapping ext="20210221" type="PLAIN_TEXT" />
