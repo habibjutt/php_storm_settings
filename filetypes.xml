@@ -21,6 +21,7 @@
       <mapping ext="20210904" type="PLAIN_TEXT" />
       <mapping ext="2020-05-07" type="PLAIN_TEXT" />
       <mapping ext="20200715" type="PLAIN_TEXT" />
+      <mapping ext="20210823" type="PLAIN_TEXT" />
       <mapping ext="point_trx" type="PLAIN_TEXT" />
       <mapping ext="working" type="PLAIN_TEXT" />
       <mapping ext="20210330kamransirchanges" type="PLAIN_TEXT" />
@@ -29,7 +30,6 @@
       <mapping ext="20210221" type="PLAIN_TEXT" />
       <mapping ext="hussnainchanges" type="PLAIN_TEXT" />
       <mapping ext="20210211" type="PLAIN_TEXT" />
-      <mapping ext="20210823" type="PLAIN_TEXT" />
       <mapping ext="20200531" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
