@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="crud_generator_command" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_backup_working" type="PLAIN_TEXT" />
       <mapping ext="20200529" type="PLAIN_TEXT" />
       <mapping ext="20200412" type="PLAIN_TEXT" />
       <mapping ext="manual" type="PLAIN_TEXT" />
