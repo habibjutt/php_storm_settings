@@ -5,6 +5,7 @@
       <mapping pattern=".htaccess_backup_working" type="PLAIN_TEXT" />
       <mapping ext="20200529" type="PLAIN_TEXT" />
       <mapping ext="20200412" type="PLAIN_TEXT" />
+      <mapping ext="20211215" type="PLAIN_TEXT" />
       <mapping ext="manual" type="PLAIN_TEXT" />
       <mapping ext="20200501" type="PLAIN_TEXT" />
       <mapping ext="20201130" type="PLAIN_TEXT" />
