@@ -7,7 +7,7 @@
     <option name="UPPER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="SEPARATE" />
     <option name="BLANK_LINES_AFTER_FUNCTION" value="0" />
-    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
+    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
@@ -16,8 +16,8 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
-    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="0" />
