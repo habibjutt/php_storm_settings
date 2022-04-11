@@ -1,40 +1,40 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".htaccess_backup_working" type="PLAIN_TEXT" />
       <mapping pattern="crud_generator_command" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess_backup_working" type="PLAIN_TEXT" />
-      <mapping ext="20200529" type="PLAIN_TEXT" />
-      <mapping ext="20200412" type="PLAIN_TEXT" />
-      <mapping ext="20211215" type="PLAIN_TEXT" />
-      <mapping ext="manual" type="PLAIN_TEXT" />
-      <mapping ext="20200501" type="PLAIN_TEXT" />
-      <mapping ext="20201130" type="PLAIN_TEXT" />
-      <mapping ext="backup" type="PLAIN_TEXT" />
-      <mapping ext="20210106" type="PLAIN_TEXT" />
-      <mapping ext="20200429" type="PLAIN_TEXT" />
-      <mapping ext="20220201" type="PLAIN_TEXT" />
-      <mapping ext="20200420" type="PLAIN_TEXT" />
-      <mapping ext="20200414" type="PLAIN_TEXT" />
-      <mapping ext="20200413" type="PLAIN_TEXT" />
-      <mapping ext="20210525" type="PLAIN_TEXT" />
-      <mapping ext="20200407" type="PLAIN_TEXT" />
       <mapping ext="20201420" type="PLAIN_TEXT" />
-      <mapping ext="20200820" type="PLAIN_TEXT" />
-      <mapping ext="20210922" type="PLAIN_TEXT" />
       <mapping ext="20210904" type="PLAIN_TEXT" />
-      <mapping ext="2020-05-07" type="PLAIN_TEXT" />
-      <mapping ext="20200715" type="PLAIN_TEXT" />
-      <mapping ext="20210823" type="PLAIN_TEXT" />
       <mapping ext="point_trx" type="PLAIN_TEXT" />
-      <mapping ext="working" type="PLAIN_TEXT" />
-      <mapping ext="20210330kamransirchanges" type="PLAIN_TEXT" />
-      <mapping ext="20200606" type="PLAIN_TEXT" />
-      <mapping ext="20210222" type="PLAIN_TEXT" />
-      <mapping ext="20210221" type="PLAIN_TEXT" />
+      <mapping ext="20200820" type="PLAIN_TEXT" />
+      <mapping ext="20200529" type="PLAIN_TEXT" />
       <mapping ext="hussnainchanges" type="PLAIN_TEXT" />
+      <mapping ext="20210525" type="PLAIN_TEXT" />
+      <mapping ext="20200413" type="PLAIN_TEXT" />
+      <mapping ext="20220201" type="PLAIN_TEXT" />
+      <mapping ext="20200715" type="PLAIN_TEXT" />
+      <mapping ext="2020-05-07" type="PLAIN_TEXT" />
+      <mapping ext="20200606" type="PLAIN_TEXT" />
+      <mapping ext="20200412" type="PLAIN_TEXT" />
+      <mapping ext="20210922" type="PLAIN_TEXT" />
+      <mapping ext="20210221" type="PLAIN_TEXT" />
+      <mapping ext="20200420" type="PLAIN_TEXT" />
+      <mapping ext="working" type="PLAIN_TEXT" />
+      <mapping ext="20201130" type="PLAIN_TEXT" />
+      <mapping ext="20210330kamransirchanges" type="PLAIN_TEXT" />
+      <mapping ext="20210823" type="PLAIN_TEXT" />
+      <mapping ext="20210222" type="PLAIN_TEXT" />
+      <mapping ext="20200414" type="PLAIN_TEXT" />
       <mapping ext="20210211" type="PLAIN_TEXT" />
+      <mapping ext="manual" type="PLAIN_TEXT" />
       <mapping ext="20200531" type="PLAIN_TEXT" />
+      <mapping ext="20211215" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="20200429" type="PLAIN_TEXT" />
+      <mapping ext="20200407" type="PLAIN_TEXT" />
+      <mapping ext="20200501" type="PLAIN_TEXT" />
+      <mapping ext="20210106" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
