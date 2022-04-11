@@ -1,0 +1,20 @@
+<templateSet group="PHP">
+  <template name="prin" value="echo &quot;&lt;pre&gt;&quot;;&#10;print_r();&#10;echo &quot;&lt;/pre&gt;&quot;;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eco" value="echo &quot;$END$ : $END$&lt;br&gt;&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="error" value="error_reporting(-1);&#10;ini_set('display_errors', 'On');" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="echopos" value="if ($_SESSION['username'] == &quot;habib_pos&quot;) {&#10;        echo &quot;&lt;pre&gt;&quot;;&#10;        print_r();&#10;        echo &quot;&lt;/pre&gt;&quot;;&#10;        die();&#10;    }" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
