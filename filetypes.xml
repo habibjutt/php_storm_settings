@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="cocktails" type="AUTO_DETECTED" />
       <mapping pattern=".htaccess_backup_working" type="PLAIN_TEXT" />
       <mapping pattern="crud_generator_command" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
