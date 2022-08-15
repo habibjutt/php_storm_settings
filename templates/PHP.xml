@@ -17,4 +17,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="poshabib" value="    if($_SESSION['username'] == &quot;habib_pos&quot;) {&#10;        echo &quot;&lt;pre&gt;&quot;;&#10;        print_r($sales);&#10;        echo &quot;&lt;/pre&gt;&quot;;&#10;    }" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
